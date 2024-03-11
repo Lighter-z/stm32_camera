@@ -1,4 +1,5 @@
 # stm32_camera项目介绍
+* 视频演示：https://www.bilibili.com/video/BV1nr421W78P/?share_source=copy_web&vd_source=7f03fec7560b7e06b14e13ffd1b9e79d
 * 实现STM32拍照功能
 * 相册功能
   * 可以在相册内进行查看拍好的照片
